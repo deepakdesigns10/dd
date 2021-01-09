@@ -69,7 +69,7 @@ ul, ol {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #ddd;
+	background: #000;
 	z-index: 99999;
 	height: 100%;
 }
